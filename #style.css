@@ -1,0 +1,26 @@
+#style.css h1 {
+    color: blue;
+    align-self: auto;
+}
+
+image {
+    align-self: center;
+}
+
+table {
+    grid-template-rows: none;
+    grid-template-columns: ;
+}
+
+body {
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-add-an-image-url-to-your-div%2F&psig=AOvVaw2IPgPCabb4EkbWXBNCrffe&ust=1664407938112000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLi-tfGQtvoCFQAAAAAdAAAAABAE");
+    background-color: #cccccc;
+}
+
+prev {
+    bottom: unset;
+}
+
+next {
+    bottom: unset;
+}
